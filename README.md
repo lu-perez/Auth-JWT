@@ -2,7 +2,7 @@
 
 1. Clone repo
 ```console
-git clone 
+git clone https://github.com/lu-perez/Auth-jsonwebtoken.git
 ```
 
 2. Install dependencies
